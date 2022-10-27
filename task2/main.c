@@ -6,6 +6,8 @@
 int main(int argc, char *argv[]) {
 	int length = strlen(article_string);
 	printf("Article length is: %dByte\n", length);
+	
+	printf("hi");
 	return 0;
 }
 
